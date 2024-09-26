@@ -4,7 +4,6 @@ Esta prueba tiene como objetivo la creación de dos interfaces de una página de
 
 En este diseño, el fondo es blanco, y el mueble debe cambiar cuando el usuario realiza un scroll. Además, en la barra inferior, el mueble cambia de un tipo al otro mediante una interacción específica.
 
-
 ### Requisitos técnicos
 
 - La prueba debe desarrollarse desde cero utilizando HTML, CSS y JavaScript.
@@ -21,8 +20,7 @@ En este diseño, el fondo es blanco, y el mueble debe cambiar cuando el usuario 
 - La maquetación precisa y fiel al diseño proporcionado.
 - Código limpio y bien organizado en HTML, CSS y JavaScript.
 
-### Entrega
+[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=0ABF53&style=for-the-badge)](https://acasadovalencia.github.io/mater-catalog-web/)
+[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=0ABF53&style=for-the-badge&logo=github&logoColor=white)](https://github.com/acasadovalencia/mater-catalog-web.git)
 
-- La prueba debe completarse en un máximo de 5 horas. No se aceptarán entregas después de este plazo.
-- Al entregar el ejercicio, se debe subir todo el código a este repositorio github.com/xxxxxx
-- La entrega final se notificará a través del correo XXX@xxx.com, confirmando la finalización y la correcta entrega del trabajo.
+![Mater catalog image](https://raw.githubusercontent.com/acasadovalencia/mater-catalog-web/master/readme-img.png)
